@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jitendra-rewar-495326369">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> •
-  <a href="mailto:jiturewar9@gmail.com">
+<a href="mailto:jiturewar9@gmail.com">
   <img src="https://shields.io" alt="Email" />
 </a>
 </p>
@@ -19,12 +19,6 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Open+Source+Contributor;C%2B%2B+%26+DSA+Enthusiast;Building+Real-World+Products;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=JituRewar&label=Profile%20Views&color=58A6FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/JituRewar?label=Followers&style=flat-square&color=58A6FF" />
-</p>
-
 </div>
 
 ---
@@ -48,7 +42,7 @@ I like turning ideas into products, solving problems with **C++ & DSA**, and lea
 
 <div align="center">
 
-### Conveo
+### 🎫 Conveo
 
 **A modern event management platform**
 
@@ -60,7 +54,7 @@ Create events → Generate QR Tickets → Manage Attendance → Analyze Events �
 
 <br/>
 
-### Open Source
+### 🌎 Open Source
 
 Contributing to and learning from real-world open-source projects.
 
