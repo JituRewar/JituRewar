@@ -4,12 +4,12 @@
   <a href="https://www.linkedin.com/in/jitendra-rewar-495326369">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> •
- <a href="mailto:jiturewar9@gmail.com">
-  <img src="https://shields.io" alt="Email" />
- </a>
-
-</p>
+  <a href="mailto:jiturewar9@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  </p>
 </div>
+
 
 <div align="center">
 
